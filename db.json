@@ -1,0 +1,36 @@
+{
+  "videos": [
+    {
+      "titulo": "Equipo Front End",
+      "categoria": "Frontend",
+      "imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkb-PJrLWrffCvsevbaS6oMxcyhQ",
+      "video": "https://youtu.be/rpvrLaBQwgg?si=qtaG9_BfFRQWIoG5",
+      "descripcion": "Descripción del video",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti!",
+      "categoria": "Backend",
+      "imagen": "https://i.ytimg.com/vi/QjOWz9avkg8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASVGtnx4FYMKU6rqLwKOdCS6xQoQ",
+      "video": "https://youtu.be/QjOWz9avkg8?si=d4q0GCDyRIJtZQv9",
+      "descripcion": "Descripción del video"
+    },
+    {
+      "id": "3",
+      "titulo": "Café Punto Tech #16 - Gestión de Proyectos en Tecnología",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://i.ytimg.com/vi/u3TDlT87qAw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPikpFWUX8nY8guwCeA62wnrfj6g",
+      "video": "https://youtu.be/u3TDlT87qAw?si=X1pBUFwYNcFu23vW",
+      "descripcion": "Descripción del video"
+    },
+    {
+      "id": "2601",
+      "titulo": "CPT #26 - Organización y objetivos para el 2025",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://i.ytimg.com/vi/5cK1-xH1XkU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPmAnSViSQZg2lw5CEoCIHwlujdQ",
+      "video": "https://youtu.be/5cK1-xH1XkU?si=uhA5rL0XwoKXWO6o",
+      "descripcion": "Descripción del video"
+    }
+  ]
+}
