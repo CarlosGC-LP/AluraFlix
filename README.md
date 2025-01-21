@@ -1,4 +1,4 @@
-# Video Management App
+# AluraFlix
 
 Una aplicación web que permite gestionar y mostrar videos por categorías. Los usuarios pueden agregar, editar y ver videos organizados en diferentes categorías como Frontend, Backend, Innovación y Gestión.
 
